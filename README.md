@@ -50,7 +50,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
-- 
+- text
 
 ### Data <a name="data"></a>
 
