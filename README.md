@@ -42,6 +42,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
+- Tirana: SUMP, 2020: Status analysis: https://tirana.al/en/uploads/2020/12/20201210161510_sump_tirana-volume-i_status_analysis_200724.pdf 
 - Tirana: Green City Action Plan, EBRD, 2018: https://ebrdgreencities.com/assets/Uploads/PDF/Tirana-GCAP.pdf (Albanian: https://ebrdgreencities.com/assets/Uploads/PDF/Tirana-GCAP-Alba.pdf)
 
 ### Studies and research papers <a name="studies-research"></a> 
