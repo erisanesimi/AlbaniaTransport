@@ -33,7 +33,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### EU accession <a name="eu-accession"></a> 
 
-- 
+- Communication on EU Enlargement policy - Albania 2023 Report Accompanying the document Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions 2023: https://neighbourhood-enlargement.ec.europa.eu/albania-report-2023_en
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
 
@@ -42,7 +42,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
-- 
+- Tirana: Green City Action Plan, EBRD, 2018: https://ebrdgreencities.com/assets/Uploads/PDF/Tirana-GCAP.pdf (Albanian: https://ebrdgreencities.com/assets/Uploads/PDF/Tirana-GCAP-Alba.pdf)
 
 ### Studies and research papers <a name="studies-research"></a> 
 
@@ -50,7 +50,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
-- 
+- Tirana Green Finaning Roadmap, EBRD, 2022: https://www.ebrdgreencities.com/assets/Uploads/PDF/Tirana-green-financing-roadmap_ENG.pdf?vid=3
 
 ### Data <a name="data"></a>
 
