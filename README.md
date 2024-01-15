@@ -26,6 +26,7 @@ The action plan for the implementation of the TCT which aims at harmonizing nati
 •	For the project Traffic Monitoring and Control Center for primary road network, contract between ARA and Technik TML Infraplan JV was signed on 20th of April 2021. 
 •	e-Transport platform was launched, financed by GDRTS, an electronic platform in which will be incorporated the whole information on road transport operators/companies/entities, intercity lines, e-ticket system, terminal management, interaction with third party systems QKB, e-DPSHTRR, e-DM, e-Monitoring, REK, e-Tachograph. 
 •	Under the IPA project “On the improvement of road safety standards”, the tendering process for the elimination of 10 black spots was completed by the end of 2020 and the execution of works is completed.
+https://www.infrastruktura.gov.al/wp-content/uploads/2020/07/Presentation-of-3rd-Monitoring-Report-on-Sectoral-Transport-Strategy-and-Action-Plan-2016-2020_June-2020.pdf 
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
