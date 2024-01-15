@@ -42,7 +42,10 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
-- Tirana: SUMP, 2020: Status analysis: https://tirana.al/en/uploads/2020/12/20201210161510_sump_tirana-volume-i_status_analysis_200724.pdf 
+- Tirana SUMP 2020:
+  - STATUS ANALYSIS: https://tirana.al/en/uploads/2020/12/20201210161510_sump_tirana-volume-i_status_analysis_200724.pdf
+  - PLAN: https://tirana.al/en/uploads/2020/12/20201210161709_sump_tirana-volume-ii_the-plan_200724.pdf
+  - ANNEXES: https://www.tirana.al/en/uploads/2020/12/20201210161809_sump_tirana-volume-iii_annexes_200724.pdf
 - Tirana: Green City Action Plan, EBRD, 2018: https://ebrdgreencities.com/assets/Uploads/PDF/Tirana-GCAP.pdf (Albanian: https://ebrdgreencities.com/assets/Uploads/PDF/Tirana-GCAP-Alba.pdf)
 
 ### Studies and research papers <a name="studies-research"></a> 
@@ -55,8 +58,9 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Data <a name="data"></a>
 
-- 
-
+- OpenStreetMap Albania, Transport Map : https://www.openstreetmap.org/relation/53292#map=8/41.294/20.572&layers=T
+- Open Data Portal - Albania (non-active for now): https://opendata.gov.al/
+- Open Data Portal - Tirana - for transport: https://ckan.tirana.al/dataset?groups=transporti
 
 Disclaimer: Findings, interpretations and conclusions expressed in this chart are based on information gathered by GIZ and its consultants, partners and contributors. GIZ does not, however, guarantee the accuracy of completeness of information in this document, and cannot be held responsible for any errors, omissions or losses which emerge from its use. The placement and listing of companies, academia or other stakeholders (or their logos, contact details or other information) in this chart doesn’t mean any endorsement by GIZ or other partners. Users are encouraged to exercise due-diligence in respect to information, offers and proposals.
 
