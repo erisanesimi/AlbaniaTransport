@@ -31,6 +31,7 @@ The action plan for the implementation of the TCT which aims at harmonizing nati
     - [Ministry link of docs](https://www.infrastruktura.gov.al/dokumenta-strategjike/)
     - [2020 Monitoring Report](https://www.infrastruktura.gov.al/wp-content/uploads/2020/07/Presentation-of-3rd-Monitoring-Report-on-Sectoral-Transport-Strategy-and-Action-Plan-2016-2020_June-2020.pdf)
     - [2021 Transport Sector Strategy - 4th](https://www.infrastruktura.gov.al/wp-content/uploads/2021/10/4th-Monitoring-Report_May-2021-Transport-Sector-Strategy-final-21.06.2021.pdf)
+    - National Determined Contributions: https://unfccc.int/sites/default/files/2022-08/Albania%20Revised%20NDC.pdf 
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
 
@@ -46,6 +47,9 @@ The action plan for the implementation of the TCT which aims at harmonizing nati
 ### EU accession <a name="eu-accession"></a> 
 
 - Communication on EU Enlargement policy - Albania 2023 Report Accompanying the document Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions 2023: https://neighbourhood-enlargement.ec.europa.eu/albania-report-2023_en
+- National Strategy for European Integration 2022-2030
+https://rti.rtsh.al/article/national-strategy-for-european-integration-2022-2030-osce-a-fundamental-document
+https://konsultimipublik.gov.al/documents/RENJK_538_Draft-Strategjia-Kombetare-per-Zhvillim-dhe-Integrim-2021--2030-.pdf 
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
 
