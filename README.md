@@ -50,6 +50,7 @@ The action plan for the implementation of the TCT which aims at harmonizing nati
 - National Strategy for European Integration 2022-2030
 https://rti.rtsh.al/article/national-strategy-for-european-integration-2022-2030-osce-a-fundamental-document
 https://konsultimipublik.gov.al/documents/RENJK_538_Draft-Strategjia-Kombetare-per-Zhvillim-dhe-Integrim-2021--2030-.pdf 
+- Action Plans and the EU Acquis Progress Report 2023, Transport Community 2023, https://www.transport-community.org/wp-content/uploads/2023/12/Action-Plans-and-EU-Acquis-Progress-Report-2023-WEB.pdf
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
 
