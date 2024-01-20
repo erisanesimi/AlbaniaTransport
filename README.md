@@ -68,7 +68,8 @@ https://konsultimipublik.gov.al/documents/RENJK_538_Draft-Strategjia-Kombetare-p
   - English: https://ebrdgreencities.com/assets/Uploads/PDF/Tirana-GCAP.pdf
   - Albanian: https://ebrdgreencities.com/assets/Uploads/PDF/Tirana-GCAP-Alba.pdf
 - Shkoder: Sustainable Urban Mobility Plan, 2017 (Draft): https://issuu.com/go2albania/docs/plani_levizje_e_qendrueshme_urbane/1
-- Elbasan: SUSTAINABLE URBAN MOBILITY SYSTEM IN THE MUNICIPALITY OF ELBASAN, 2020 (Draft): https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.shav.al%2Fimages%2Fraporte_publikime%2Fpdf%2FElbasan_SUMP_Report_rev01_1.docx&wdOrigin=BROWSELINK 
+- Elbasan: SUSTAINABLE URBAN MOBILITY SYSTEM IN THE MUNICIPALITY OF ELBASAN, 2020 (Draft): https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.shav.al%2Fimages%2Fraporte_publikime%2Fpdf%2FElbasan_SUMP_Report_rev01_1.docx&wdOrigin=BROWSELINK
+- Gramsh: SUSTAINABLE URBAN MOBILITY SYSTEM IN THE MUNICIPALITY OF Gramsh, 2020 (Draft), https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fwww.shav.al%2Fimages%2Fraporte_publikime%2Fpdf%2FGramsh_SUMP_Report_rev01_1.docx&wdOrigin=BROWSELINK
 
 
 ###  Local Transport Info
