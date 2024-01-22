@@ -92,7 +92,14 @@ https://konsultimipublik.gov.al/documents/RENJK_538_Draft-Strategjia-Kombetare-p
 
 ### Studies and research papers <a name="studies-research"></a> 
 
-- 
+- From Dorina Pojani:
+Pleasing the voters in Albania: Allowable speed limits and parking spaces increase just before elections: https://www.researchgate.net/publication/371513361_Pleasing_the_voters_in_Albania_Allowable_speed_limits_and_parking_spaces_increase_just_before_elections
+Keep the children walking: Active school travel in Tirana, Albania: https://www.researchgate.net/publication/263892920_Keep_the_children_walking_Active_school_travel_in_Tirana_Albania
+Mobility, Equity and Sustainability Today in Tirana: https://www.researchgate.net/publication/275887494_Mobility_Equity_and_Sustainability_Today_in_Tirana
+Urban sprawl and weak regional transport in “Durana: https://www.researchgate.net/publication/267865971_Urban_sprawl_and_weak_regional_transport_in_Durana
+From carfree to carfull: The environmental and health impacts of increasing private motorisation in Albania: https://www.researchgate.net/publication/227619994_From_carfree_to_carfull_The_environmental_and_health_impacts_of_increasing_private_motorisation_in_Albania
+Public transport and its privatization in East Europe: The case of Tirana, Albania: https://www.researchgate.net/publication/227580345_Public_transport_and_its_privatization_in_East_Europe_The_case_of_Tirana_Albania
+
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
